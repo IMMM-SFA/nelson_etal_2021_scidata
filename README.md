@@ -39,7 +39,7 @@ Fill in detailed info here or link to other documentation that is a thorough wal
 
 2. Download and install the supporting input data required to conduct the experiement from [Input data](#input-data)
 
-3. Run the following scripts in the `workflow` directory to re-create this experiment:
+3. To generate the suitablity data:
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ Fill in detailed info here or link to other documentation that is a thorough wal
 
 4. Download and unzip the output data from my experiment [Output data](#output-data)
 
-5. Run the following scripts in the `workflow` directory to compare my outputs to those from the publication
+5. To run the validation...
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
